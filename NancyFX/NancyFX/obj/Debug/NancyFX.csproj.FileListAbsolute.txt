@@ -1,0 +1,25 @@
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\bin\Debug\NancyFX.exe.config
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\bin\Debug\NancyFX.exe
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\bin\Debug\NancyFX.pdb
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\bin\Debug\Nancy.dll
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\bin\Debug\Nancy.Hosting.Self.dll
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\bin\Debug\Nancy.xml
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\bin\Debug\Nancy.Hosting.Self.xml
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\obj\Debug\NancyFX.csprojResolveAssemblyReference.cache
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\obj\Debug\NancyFX.csproj.CoreCompileInputs.cache
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\obj\Debug\NancyFX.csproj.CopyComplete
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\obj\Debug\NancyFX.exe
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\obj\Debug\NancyFX.pdb
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\NancyFX\NancyFX\bin\Debug\NancyFX.exe.config
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\NancyFX\NancyFX\bin\Debug\NancyFX.exe
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\NancyFX\NancyFX\bin\Debug\NancyFX.pdb
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\NancyFX\NancyFX\bin\Debug\Nancy.dll
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\NancyFX\NancyFX\bin\Debug\Nancy.Hosting.Self.dll
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\NancyFX\NancyFX\bin\Debug\Nancy.xml
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\NancyFX\NancyFX\bin\Debug\Nancy.Hosting.Self.xml
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\NancyFX\NancyFX\obj\Debug\NancyFX.csprojResolveAssemblyReference.cache
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\NancyFX\NancyFX\obj\Debug\NancyFX.csproj.CoreCompileInputs.cache
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\NancyFX\NancyFX\obj\Debug\NancyFX.exe
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\NancyFX\NancyFX\obj\Debug\NancyFX.pdb
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\NancyFX\NancyFX\bin\Debug\Nancy.CustomErrors.dll
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\bin\Debug\Nancy.CustomErrors.dll

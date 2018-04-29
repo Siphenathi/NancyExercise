@@ -1,0 +1,12 @@
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX.Model\bin\Debug\NancyFX.Model.dll
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX.Model\bin\Debug\NancyFX.Model.pdb
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX.Model\obj\Debug\NancyFX.Model.csprojResolveAssemblyReference.cache
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX.Model\obj\Debug\NancyFX.Model.csproj.CoreCompileInputs.cache
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX.Model\obj\Debug\NancyFX.Model.dll
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX.Model\obj\Debug\NancyFX.Model.pdb
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX.Model\bin\Debug\NancyFX.Model.dll
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX.Model\bin\Debug\NancyFX.Model.pdb
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX.Model\obj\Debug\NancyFX.Model.csprojResolveAssemblyReference.cache
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX.Model\obj\Debug\NancyFX.Model.csproj.CoreCompileInputs.cache
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX.Model\obj\Debug\NancyFX.Model.dll
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX.Model\obj\Debug\NancyFX.Model.pdb

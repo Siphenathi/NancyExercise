@@ -1,0 +1,37 @@
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\bin\Debug\NancyFX.exe.config
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\bin\Debug\NancyFX.exe
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\bin\Debug\NancyFX.pdb
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\bin\Debug\Nancy.CustomErrors.dll
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\bin\Debug\Nancy.dll
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\bin\Debug\Nancy.Hosting.Self.dll
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\bin\Debug\Nancy.xml
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\bin\Debug\Nancy.Hosting.Self.xml
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\obj\Debug\NancyFX.App.csproj.CoreCompileInputs.cache
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\obj\Debug\NancyFX.App.csproj.CopyComplete
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\obj\Debug\NancyFX.exe
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\obj\Debug\NancyFX.pdb
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\obj\Debug\NancyFX.App.csprojResolveAssemblyReference.cache
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\bin\Debug\NancyFX.Model.dll
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\bin\Debug\NancyFX.Model.pdb
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\bin\Debug\NancyFX.Boundary.dll
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\bin\Debug\NancyFX.BusinessLogic.dll
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\bin\Debug\NancyFX.Boundary.pdb
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX\bin\Debug\NancyFX.BusinessLogic.pdb
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX\bin\Debug\NancyFX.exe.config
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX\bin\Debug\NancyFX.exe
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX\bin\Debug\NancyFX.pdb
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX\bin\Debug\Nancy.CustomErrors.dll
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX\bin\Debug\Nancy.dll
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX\bin\Debug\Nancy.Hosting.Self.dll
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX\bin\Debug\NancyFX.Boundary.dll
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX\bin\Debug\NancyFX.BusinessLogic.dll
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX\bin\Debug\NancyFX.Model.dll
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX\bin\Debug\NancyFX.Boundary.pdb
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX\bin\Debug\NancyFX.BusinessLogic.pdb
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX\bin\Debug\NancyFX.Model.pdb
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX\bin\Debug\Nancy.xml
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX\bin\Debug\Nancy.Hosting.Self.xml
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX\obj\Debug\NancyFX.App.csprojResolveAssemblyReference.cache
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX\obj\Debug\NancyFX.App.csproj.CoreCompileInputs.cache
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX\obj\Debug\NancyFX.exe
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX\obj\Debug\NancyFX.pdb

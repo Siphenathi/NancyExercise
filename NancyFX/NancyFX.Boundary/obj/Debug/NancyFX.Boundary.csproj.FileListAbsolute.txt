@@ -1,0 +1,17 @@
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX.Boundary\bin\Debug\NancyFX.Boundary.dll
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX.Boundary\bin\Debug\NancyFX.Boundary.pdb
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX.Boundary\obj\Debug\NancyFX.Boundary.csprojResolveAssemblyReference.cache
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX.Boundary\obj\Debug\NancyFX.Boundary.csproj.CoreCompileInputs.cache
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX.Boundary\obj\Debug\NancyFX.Boundary.dll
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX.Boundary\obj\Debug\NancyFX.Boundary.pdb
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX.Boundary\bin\Debug\NancyFX.Model.dll
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX.Boundary\bin\Debug\NancyFX.Model.pdb
+C:\Users\DevFluence\source\repos\NancyFX\NancyFX.Boundary\obj\Debug\NancyFX.Boundary.csproj.CopyComplete
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX.Boundary\bin\Debug\NancyFX.Boundary.dll
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX.Boundary\bin\Debug\NancyFX.Boundary.pdb
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX.Boundary\bin\Debug\NancyFX.Model.dll
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX.Boundary\bin\Debug\NancyFX.Model.pdb
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX.Boundary\obj\Debug\NancyFX.Boundary.csprojResolveAssemblyReference.cache
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX.Boundary\obj\Debug\NancyFX.Boundary.csproj.CoreCompileInputs.cache
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX.Boundary\obj\Debug\NancyFX.Boundary.dll
+C:\Users\Siphenathi\Documents\GitHub\API Task week 5\Updated\NancyFX\NancyFX.Boundary\obj\Debug\NancyFX.Boundary.pdb
